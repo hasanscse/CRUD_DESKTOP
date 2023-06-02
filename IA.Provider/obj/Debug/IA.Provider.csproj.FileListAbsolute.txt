@@ -1,0 +1,6 @@
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.Provider\bin\Debug\IA.Provider.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.Provider\bin\Debug\IA.Provider.pdb
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.Provider\obj\Debug\IA.Provider.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.Provider\obj\Debug\IA.Provider.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.Provider\obj\Debug\IA.Provider.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.Provider\obj\Debug\IA.Provider.pdb

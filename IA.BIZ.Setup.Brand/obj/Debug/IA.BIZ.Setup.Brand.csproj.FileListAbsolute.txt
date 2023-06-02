@@ -1,0 +1,11 @@
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\bin\Debug\IA.BIZ.Setup.Brand.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\bin\Debug\IA.BIZ.Setup.Brand.pdb
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\obj\Debug\IA.BIZ.Setup.Brand.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\obj\Debug\IA.BIZ.Setup.Brand.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\obj\Debug\IA.BIZ.Setup.Brand.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\obj\Debug\IA.BIZ.Setup.Brand.pdb
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\bin\Debug\IA.BIZ.MODEL.BRAND.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\bin\Debug\IA.Provider.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\bin\Debug\IA.BIZ.MODEL.BRAND.pdb
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\bin\Debug\IA.Provider.pdb
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.Setup.Brand\obj\Debug\IA.BIZ.Setup.Brand.csproj.CopyComplete

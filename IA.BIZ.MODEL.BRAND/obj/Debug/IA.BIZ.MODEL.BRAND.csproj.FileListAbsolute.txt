@@ -1,0 +1,6 @@
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.MODEL.BRAND\bin\Debug\IA.BIZ.MODEL.BRAND.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.MODEL.BRAND\bin\Debug\IA.BIZ.MODEL.BRAND.pdb
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.MODEL.BRAND\obj\Debug\IA.BIZ.MODEL.BRAND.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.MODEL.BRAND\obj\Debug\IA.BIZ.MODEL.BRAND.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.MODEL.BRAND\obj\Debug\IA.BIZ.MODEL.BRAND.dll
+C:\Users\hasan\source\repos\CRUD_DESKTOP\IA.BIZ.MODEL.BRAND\obj\Debug\IA.BIZ.MODEL.BRAND.pdb
